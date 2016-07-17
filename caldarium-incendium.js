@@ -14,3 +14,10 @@ function spell(player){
 }
 
 magik.invoco(caldarium);
+
+/**
+ * caldarium is a "spell factory"
+ * It returns a new spell depending on the ingredients that you pass
+ * in as an array. This example produces the 
+ * 
+ */
